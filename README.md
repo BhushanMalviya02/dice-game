@@ -20,7 +20,7 @@ A simple browser-based dice game built using HTML, CSS, and JavaScript.
 4. Player with higher number wins
 
 ## 🌐 Live Demo
-(Add GitHub Pages link here after deployment)
+https://bhushanmalviya02.github.io/dice-game/
 
 ## ✍️ Author
 Bhushan Malviya
